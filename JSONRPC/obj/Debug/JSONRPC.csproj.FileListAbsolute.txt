@@ -4,3 +4,9 @@ D:\BESTEM\JSONRPC\JSONRPC\obj\Debug\JSONRPC.dll
 D:\BESTEM\JSONRPC\JSONRPC\obj\Debug\JSONRPC.pdb
 D:\BESTEM\JSONRPC\JSONRPC.dll
 D:\BESTEM\JSONRPC\JSONRPC.pdb
+E:\GitHub\monks\JSONRPC\obj\Debug\JSONRPC.csprojResolveAssemblyReference.cache
+E:\GitHub\monks\JSONRPC.dll.config
+E:\GitHub\monks\JSONRPC\obj\Debug\JSONRPC.dll
+E:\GitHub\monks\JSONRPC\obj\Debug\JSONRPC.pdb
+E:\GitHub\monks\JSONRPC.dll
+E:\GitHub\monks\JSONRPC.pdb
