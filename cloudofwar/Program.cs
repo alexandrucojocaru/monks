@@ -13,7 +13,7 @@ namespace cloudofwar
         static void Main(string[] args)
         {
             JSONRPCClient a = new JSONRPCClient();
-            Console.WriteLine("MERGEEEE!!!");
+            Console.WriteLine("MERGEEEE!!!\n");
         }
     }
 }
