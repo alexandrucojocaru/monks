@@ -1,0 +1,13 @@
+D:\BESTEM\JSONRPC\cloudofwar\bin\Debug\cloudofwar.exe.config
+D:\BESTEM\JSONRPC\cloudofwar\bin\Debug\cloudofwar.exe
+D:\BESTEM\JSONRPC\cloudofwar\bin\Debug\cloudofwar.pdb
+D:\BESTEM\JSONRPC\cloudofwar\bin\Debug\JSONRPC.dll
+D:\BESTEM\JSONRPC\cloudofwar\bin\Debug\Newtonsoft.Json.dll
+D:\BESTEM\JSONRPC\cloudofwar\bin\Debug\JSONRPC.pdb
+D:\BESTEM\JSONRPC\cloudofwar\bin\Debug\Newtonsoft.Json.xml
+D:\BESTEM\JSONRPC\cloudofwar\obj\Debug\cloudofwar.csprojResolveAssemblyReference.cache
+D:\BESTEM\JSONRPC\cloudofwar\obj\Debug\cloudofwar.exe
+D:\BESTEM\JSONRPC\cloudofwar\obj\Debug\cloudofwar.pdb
+C:\Users\Rzv\Documents\GitHub\monks\cloudofwar\bin\Debug\cloudofwar.exe.config
+C:\Users\Rzv\Documents\GitHub\monks\cloudofwar\obj\Debug\cloudofwar.exe
+C:\Users\Rzv\Documents\GitHub\monks\cloudofwar\obj\Debug\cloudofwar.pdb

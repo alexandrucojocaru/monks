@@ -1,0 +1,5 @@
+#Visual Studio generated files #
+################################
+.config
+.manifest
+.cache
